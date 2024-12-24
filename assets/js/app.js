@@ -1,6 +1,5 @@
 const body = document.querySelector("body");
 const section = document.createElement("section");
-
 const newSection = document.createElement("section");
 body.append(newSection);
 
